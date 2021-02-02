@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nusumu")]
 [assembly: AssemblyProduct("NusumuPluginHostsChanger")]
-[assembly: AssemblyCopyright("Made by Cantue35 Copyright ©  2020")]
+[assembly: AssemblyCopyright("Cantue35 ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
